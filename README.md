@@ -70,8 +70,8 @@ ecommerce-analytics/
 
 ### 1. Clone / Download the project
 ```bash
-git clone https://github.com/name/ecommerce-analytics.git
-cd ecommerce-analytics
+git clone https://github.com/LeelavathiP/ibm-project.git
+cd ibm-project
 ```
 
 ### 2. Create a virtual environment (recommended)
@@ -90,7 +90,7 @@ pip install -r requirements.txt
 
 ### 4. Run the standalone analysis script
 ```bash
-python ecommerce_analysis.py
+python PuchakayalaLeelavathi_EcommerceAnalysis.py
 ```
 This will print EDA stats, model results, and save all charts as `.png` files.
 
