@@ -7,8 +7,8 @@
 #  Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, streamlit
 #
 #  ─── HOW TO RUN ───────────────────────────────────────────────────────────
-#  Script mode   →  python ecommerce_analysis.py
-#  Dashboard mode→  streamlit run ecommerce_analysis.py
+#  Script mode   →  python PuchakayalaLeelavathi_EcommerceSalesAnalysis.py
+#  Dashboard mode→  streamlit run PuchakayalaLeelavathi_EcommerceSalesAnalysis.py
 # =============================================================================
 
 import warnings
