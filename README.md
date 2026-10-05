@@ -96,7 +96,7 @@ This will print EDA stats, model results, and save all charts as `.png` files.
 
 ### 5. Launch the Streamlit dashboard
 ```bash
-streamlit run app.py
+streamlit run PuchakayalaLeelavathi_EcommerceAnalysis.py
 ```
 Open your browser at **http://localhost:8501**
 
