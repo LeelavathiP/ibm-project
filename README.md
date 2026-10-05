@@ -90,13 +90,13 @@ pip install -r requirements.txt
 
 ### 4. Run the standalone analysis script
 ```bash
-python PuchakayalaLeelavathi_EcommerceAnalysis.py
+python PuchakayalaLeelavathi_EcommerceSalesAnalysis.py
 ```
 This will print EDA stats, model results, and save all charts as `.png` files.
 
 ### 5. Launch the Streamlit dashboard
 ```bash
-streamlit run PuchakayalaLeelavathi_EcommerceAnalysis.py
+streamlit run PuchakayalaLeelavathi_EcommerceSalesAnalysis.py
 ```
 Open your browser at **http://localhost:8501**
 
